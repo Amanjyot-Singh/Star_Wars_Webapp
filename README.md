@@ -5,7 +5,7 @@ A responsive React application that displays Star Wars characters using the SWAP
 ---
 
 ## 🚀 Live Demo (if deployed)
-🔗 https://your-demo-link.com (optional)
+🔗 https://inquisitive-truffle-a9b6ab.netlify.app/ (optional)
 
 ---
 
